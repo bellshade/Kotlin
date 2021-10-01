@@ -1,6 +1,5 @@
 /**
  * - Variabel adalah lokasi penyimpanan suatu value(nilai) tertentu.
- * - Deklarasi variabel di kotlin 
  * 
  *  */ 
 
